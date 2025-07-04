@@ -1,29 +1,17 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
-  DiAws,
-  DiBootstrap,
-  DiCss3,
-  DiDotnet,
-  DiHtml5,
+ 
   DiJsBadge,
-  DiMongodb,
   DiMysql,
-  DiNginx,
-  DiNodejs,
-  DiPhp,
-  DiPostgresql,
+  
   DiPython,
   DiReact,
-  DiRedis,
-  DiGit,
-  DiGithubBadge,
-  DiJavascript,
+  
   DiJava,
   
 } from "react-icons/di";
-import { FaDatabase } from "react-icons/fa";
-import { SiGooglecloud, SiTensorflow, SiPandas, SiNumpy, SiKubernetes, SiTypescript, SiCsharp, SiCplusplus, SiNextdotjs, SiAngularjs, SiExpress, SiNodedotjs, SiSpringboot, SiDjango, SiFlask, SiBootstrap, SiMaterialdesign, SiTailwindcss, SiAmazonaws, SiGraphql, SiRedux, SiMongodb, SiFirebase, SiMicrosoftsqlserver, SiPostgresql, SiGit, SiStripe, SiJsonwebtokens, SiFigma, SiJest, SiJenkins, SiLinux, SiPhp, SiDocker } from "react-icons/si";
+import { SiTensorflow, SiPandas, SiNumpy, SiKubernetes, SiTypescript, SiCsharp, SiCplusplus, SiNextdotjs, SiAngularjs, SiExpress, SiNodedotjs, SiSpringboot, SiDjango, SiFlask, SiBootstrap, SiMaterialdesign, SiTailwindcss, SiAmazonaws, SiGraphql, SiRedux, SiMongodb, SiFirebase, SiMicrosoftsqlserver, SiPostgresql, SiJest, SiJenkins, SiLinux, SiPhp, SiDocker } from "react-icons/si";
 
 function Techstack() {
   return (

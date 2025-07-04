@@ -5,8 +5,6 @@ import {
   SiPostman,
   SiSlack,
   SiVercel,
-  SiMacos,
-  SiLinux,
   SiJira,
   SiGit,
   SiGithub,

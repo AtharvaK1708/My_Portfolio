@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
-import { ImList, ImPointRight, ImStarFull } from "react-icons/im";
+import { ImPointRight } from "react-icons/im";
 
 // Define styles for experience items
 const experienceItemStyle = {
