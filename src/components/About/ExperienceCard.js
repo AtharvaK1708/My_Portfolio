@@ -10,9 +10,7 @@ const experienceItemStyle = {
 };
 
 // Define styles for the last experience item (no border)
-const lastExperienceItemStyle = {
-  marginBottom: "10px",
-};
+
 
 // Define styles for list items
 const listItemStyle = {
